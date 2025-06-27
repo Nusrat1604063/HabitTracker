@@ -16,9 +16,3 @@ HabitTracker is a simple yet powerful iOS app built with SwiftUI and Core Data, 
 - iOS 14.0+
 - Swift 5+
 - Xcode 13+
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/HabitTracker.git
-}
